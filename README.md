@@ -16,7 +16,7 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/your-username/single-cycle-mips.git
+git clone https://github.com/kha1-ed/Single_Cycle_MIPS
 
 Navigate to the project directory:
 
